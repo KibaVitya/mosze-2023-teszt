@@ -25,5 +25,7 @@ int main() {
 
     delete[] arr;
 
+    std::cout << "A program a vegehez ert, koszonjuk hogy lefuttatta." << std::endl;
+
     return 0;
 }
